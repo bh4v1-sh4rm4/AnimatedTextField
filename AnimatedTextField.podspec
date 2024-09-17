@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary      = 'A custom textfield with animated placeholder support.'
   s.description  = 'AnimatedTextField is a reusable custom text field with a placeholder animation implemented in Swift and backed by a XIB file.'
   s.homepage     = 'https://github.com/bh4v1-sh4rm4/AnimatedTextField'
-  s.license      = { :type => 'MIT', :file => 'LICENSE' }
+  s.license      = { :type => 'MIT', :file => 'LICENSE.txt' }
   s.author       = { 'Bhavishya Sharma' => 'bhavishya.0709@gmail.com' }
   s.source       = { :git => 'https://github.com/bh4v1-sh4rm4/AnimatedTextField.git', :tag => s.version.to_s }
   s.platform     = :ios, '13.0'
